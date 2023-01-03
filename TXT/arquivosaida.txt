@@ -1,0 +1,5 @@
+addi $s1, $s2,  -4
+lw $s0, 4($t0)
+add $s1, $t0, $t1
+lw $s0, 12($t1)
+sub $s2, $s1, $t2
